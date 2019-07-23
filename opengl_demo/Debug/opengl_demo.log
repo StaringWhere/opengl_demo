@@ -1,0 +1,12 @@
+﻿demo.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwSetFramebufferSizeCallback，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，该符号在函数 _main 中被引用
+demo.obj : error LNK2019: 无法解析的外部符号 _glfwGetProcAddress，该符号在函数 _main 中被引用
+D:\Workspace\OpenGL\opengl_demo\..\library\libs\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Workspace\OpenGL\opengl_demo\Debug\opengl_demo.exe : fatal error LNK1120: 10 个无法解析的外部命令
