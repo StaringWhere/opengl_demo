@@ -28,13 +28,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="vertexShaderSource.txt">
+    <Text Include="3.3.shader2.fs">
       <Filter>源文件</Filter>
     </Text>
-    <Text Include="fragmentShaderSource.txt">
+    <Text Include="3.3.shader.fs">
       <Filter>源文件</Filter>
     </Text>
-    <Text Include="fragmentShaderSource2.txt">
+    <Text Include="3.3.shader.vs">
       <Filter>源文件</Filter>
     </Text>
   </ItemGroup>
